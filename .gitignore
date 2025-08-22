@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Instance folder (Flask)
+instance/
+
+# Docker
+docker-compose.override.yml
+docker-compose.yml
+*.log
+
+# VSCode / IDE
+.vscode/
+.idea/
